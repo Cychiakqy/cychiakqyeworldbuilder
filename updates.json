@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "notes": "首次发布",
+  "files": [
+    {
+      "path": "www/index.html",
+      "url": "https://Cychiakqy.github.io/cychiakqyeworldbuilder/files/www/index.html"
+    },
+    {
+      "path": "version.txt",
+      "url": "https://Cychiakqy.github.io/cychiakqyeworldbuilder/files/version.txt"
+    },
+    {
+      "path": "main.js",
+      "url": "https://Cychiakqy.github.io/cychiakqyeworldbuilder/files/main.js"
+    },
+    {
+      "path": "preload.js",
+      "url": "https://Cychiakqy.github.io/cychiakqyeworldbuilder/files/preload.js"
+    }
+  ]
+}
