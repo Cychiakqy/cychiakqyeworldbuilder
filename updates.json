@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "notes": "正式版发布，内置自动更新",
+  "version": "1.0.2",
+  "notes": "修复网络证书报错问题",
   "files": [
     {
       "path": "www/index.html",
